@@ -1,1 +1,1 @@
-# springcloud-config springcloudµÄÅäÖÃÖĞĞÄ
+# springcloud-config springcloudæ–‡ä»¶é…ç½®ä¸­å¿ƒ
